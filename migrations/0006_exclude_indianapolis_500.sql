@@ -1,0 +1,1 @@
+DELETE FROM f1_last_lap_swings WHERE race_name ILIKE 'Indianapolis 500';
